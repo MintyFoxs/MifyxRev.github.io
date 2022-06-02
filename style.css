@@ -1,0 +1,98 @@
+<html>
+	<head>
+		<meta charset="UTF-8">
+		<title>Mifyx Revolution</title>
+		<link rel="stylesheet" href="css/reset.css">
+		<link rel="stylesheet" href="css/style.css">
+		<link rel="icon" href="img/icon.svg" type="image/x-icon">
+		<script src="eel.js"></script>
+
+	</head>
+	
+	<body>
+		<div class="topup"></div>
+		<div class="icon"></div>
+		
+		<div>
+			<div class="s1"></div>
+			<div class="s2"></div>
+			<div class="s3"></div>
+		</div>
+		
+		<div>
+			<button id="rollup" class="el1"></button>
+			<button id="window" class="el2"></button>
+			<form>
+				<input type="button" id="CloseBut" class="el3">
+			</form>
+
+		</div>
+		
+		<div class="t1">
+			<p>It’s been quite the trek, but we’re here. At the summit.</p>
+			<p>The Caves & Cliffs Update: Part II is out today, completing the much anticipated cave update. </p>
+			<p>What better way to celebrate than by climbing to the top of a higher than ever mountain. </p>
+			<p>Let’s take a moment and just take in that view. Wait. What’s that sound. Don’t tell me that goat is back.</p>
+			<p>&nbsp;</p>
+			<p>AAAAARGH.</p>
+			<p>&nbsp;</p>
+			<p>Ouff! Ouch! Ow!</p>
+			<p>&nbsp;</p>
+			<p>Where am I? It’s dark down here! It’s almost as if I fell a greater distance than I would have before today. </p>
+			<p>Figures. While I try to get out of this dripstone cave, I hope you enjoy all of the new features that 1.18 brings. </p>
+			<p>Could you pass me a candle before you leave? It really is dark down here.</p>
+		</div>
+		
+		<div class="peop"></div>
+		
+		<div class="d1">
+			<div class="ava"></div>
+			
+			<div class="b1"></div>
+			<div class="b2"></div>
+			<div class="b3"></div>
+			
+			<div class="tt1">Profile</div>
+			<div class="tt2">Settings</div>
+			<div class="tt3">MintyFoxs</div>
+				<div class="tt4">Admin</div>
+		</div>
+		
+		<div class="f1">
+			<div class="el11"></div>
+			<div class="fp1"></div>
+			<div class="fp11"></div>
+			<div class="se1">Server 1</div>
+			<div class="of1">Online</div>
+			<div class="op1">An industrial server with many mods</div>
+		</div>
+		
+		<div class="f2">
+			<div class="el12"></div>
+			<div class="fp2"></div>
+			<div class="fp12"></div>
+			<div class="se1">Server 2</div>
+			<div class="of1">Online</div>
+			<div class="op1">A magic server with lots of mods</div>
+		</div>
+		
+		<div class="f3">
+			<div class="el13"></div>
+			<div class="fp3"></div>
+			<div class="fp13"></div>
+			<div class="se1">Server 3</div>
+			<div class="of1">Offline</div>
+			<div class="op1">Shared server with multiple mods</div>
+		</div>
+		
+		<div class="f4">
+			<div class="el14"></div>
+			<div class="fp4"></div>
+			<div class="fp14"></div>
+			<div class="se1">Server 4</div>
+			<div class="of1">Online</div>
+			<div class="op1">A research server with many mods</div>
+		</div>
+		<script src="js/main.js"></script>
+	</body>
+</html>
